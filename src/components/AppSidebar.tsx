@@ -1,7 +1,13 @@
 import React from "react";
 
 const AppSidebar = () => {
-  return <div>AppSidebar</div>;
+  return (
+    <div>
+      <div>
+        <p>dfhgshdjbh</p>
+      </div>
+    </div>
+  );
 };
 
 export default AppSidebar;
