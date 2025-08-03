@@ -16,6 +16,7 @@ const Navbar = () => {
       collapseButton
       <div className="flex gap-4 items-center ">
         <p>Dashboard</p>
+        <p>dashboar d</p>
         <Moon />
 
         <DropdownMenu>
